@@ -1,11 +1,29 @@
 body {
-  background-color: #000;
+  background-color: #000000;
 }
 div.nav {
+  color: #ffffff;
+  background-color: #000000;
+  text-decoration: none;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
+}
+a {
+  color: #ffffff;
+  background-color: #000000;
+  text-decoration: none;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
+}
+a.hover {
+  color: #ff33cc;
+  background-color: #000000;
+  text-decoration: none;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
+}
+a.visited {
   color: #fff;
   background-color: #000;
   text-decoration: none;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
 }
 img.welcome {
   margin-top: 5%;
