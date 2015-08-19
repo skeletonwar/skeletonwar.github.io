@@ -1,12 +1,7 @@
 body {
   background-color: #000000;
 }
-div.nav {
-  color: #ffffff;
-  background-color: #000000;
-  text-decoration: none;
-  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
-}
+
 a {
   color: #ffffff;
   background-color: #000000;
@@ -27,5 +22,5 @@ a.visited {
 }
 img.welcome {
   margin-top: 5%;
-  width: 120%;
+  size: 80%;
 }
