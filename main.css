@@ -4,6 +4,7 @@ body {
 div.nav {
   color: #fff;
   background-color: #000;
+  text-decoration: none;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 img.welcome {
