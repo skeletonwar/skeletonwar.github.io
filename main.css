@@ -1,5 +1,8 @@
 body {
   background-color: #000000;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
 }
 
 a {
