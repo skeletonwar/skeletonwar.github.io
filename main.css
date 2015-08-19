@@ -11,13 +11,13 @@ a {
   text-decoration: none;
   font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
 }
-a.hover {
+a:hover {
   color: #ff33cc;
   background-color: #000000;
   text-decoration: none;
   font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
 }
-a.visited {
+a:visited {
   color: #fff;
   background-color: #000;
   text-decoration: none;
